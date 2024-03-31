@@ -1,7 +1,7 @@
 ---
 Vibrational Data for Faulty Induction Motor
 ---
-This dataset was recorded by Swapnoneel Kayal in the NCAIR Lab, IIT Bombay under the guidance of Prof. Asim Tewari for his Bachelor's Thesis Project where he was working in the domain of leveraging AI to be able to segregate complex fault states of induction motors using vibrational data
+This dataset was recorded by Swapnoneel Kayal in the NCAIR Lab, IIT Bombay under the guidance of Prof. Asim Tewari for his Bachelor's Thesis Project where he was working in the domain of leveraging AI to be able to segregate complex fault states of induction motors through vibrational data
 
 In order to research about the potential mapping of vibrational signals to defect states within rotary machines, a pedestal fan of a leading brand was chosen as test induction motor system. Within this system, four different but reversible faults were introduced. 
 
